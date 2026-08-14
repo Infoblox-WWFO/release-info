@@ -1,4 +1,5 @@
 {
-  "customer": "0.6.3",
-  "upload": "0.6.4"
+  "customer": "1.0.0",
+  "upload": "0.6.4",
+  "customer_download_url": "https://github.com/Infoblox-WWFO/release-info/releases/download/beacon-v1.0.0/infoblox-beacon-1.0.0.zip"
 }
