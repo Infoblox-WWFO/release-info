@@ -23,7 +23,7 @@ anywhere. You choose what to share with your Infoblox representative.
 
 **Current version: 1.0.0**
 
-[Download infoblox-estimate-1.0.0.zip](https://github.com/Infoblox-WWFO/release-info/releases/download/infoblox-estimate-v1.0.0/infoblox-estimate-1.0.0.zip) (1.8 MB)
+Temporarily removed.
 
 ### Running it
 
