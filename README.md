@@ -21,9 +21,9 @@ DDI and security resources in your environment. It counts only — it reads no
 record contents, stores nothing outside the folder you unzip, and sends nothing
 anywhere. You choose what to share with your Infoblox representative.
 
-**Current version: 2.2.1**
+**Current version: 2.3.0**
 
-[Download infoblox-estimate-2.2.1.zip](https://github.com/Infoblox-WWFO/release-info/releases/download/estimate-v2.2.1/infoblox-estimate-2.2.1.zip) (0.8 MB)
+[Download infoblox-estimate-2.3.0.zip](https://github.com/Infoblox-WWFO/release-info/releases/download/estimate-v2.3.0/infoblox-estimate-2.3.0.zip) (0.8 MB)
 
 ### Running it
 
@@ -35,6 +35,7 @@ anywhere. You choose what to share with your Infoblox representative.
 
 | Version | Published | Download |
 | --- | --- | --- |
+| 2.2.1 | 2026-11-04 | [infoblox-estimate-2.2.1.zip](https://github.com/Infoblox-WWFO/release-info/releases/download/estimate-v2.2.1/infoblox-estimate-2.2.1.zip) |
 | 2.0.1 | 2026-10-27 | [infoblox-estimate-2.0.1.zip](https://github.com/Infoblox-WWFO/release-info/releases/download/estimate-v2.0.1/infoblox-estimate-2.0.1.zip) |
 | 2.0.0 | 2026-10-23 | [infoblox-estimate-2.0.0.zip](https://github.com/Infoblox-WWFO/release-info/releases/download/estimate-v2.0.0/infoblox-estimate-2.0.0.zip) |
 
